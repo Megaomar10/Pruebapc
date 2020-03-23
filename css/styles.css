@@ -3,3 +3,12 @@
     background-color: #f56f4f;
     color: white;
 }
+
+.cajas
+{
+    width: 25px;
+    height: 25px;
+    background: black;
+    border-radius: 5px;
+    display: inline-block;
+}
