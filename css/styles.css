@@ -12,3 +12,12 @@
     border-radius: 5px;
     display: inline-block;
 }
+
+.cuadro
+{
+    width: 25px;
+    height: 25px;
+    background: pink;
+    border-radius: 5px;
+    display: inline-block;
+}
